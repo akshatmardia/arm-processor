@@ -1,9 +1,9 @@
-#ARM Pipelined Processor
+# ARM Pipelined Processor
 This is a pipelined ARM single-cycle processor in SystemVerilog. It utilizes an ALU and a Register File.
 
 ![block](img/block.png)
 
-##Testbench Results
+## Testbench Results
 Waveforms for the three programs are displayed below.
 
 1. memfile1:
